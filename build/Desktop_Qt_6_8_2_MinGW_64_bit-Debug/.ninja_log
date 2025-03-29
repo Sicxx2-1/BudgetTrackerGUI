@@ -1,0 +1,18 @@
+# ninja log v6
+14	926	7647210434131451	BudgetTrackerGUIApp_autogen/timestamp	463d9dccb4d8f5fa
+14	926	7647210434131451	BudgetTrackerGUIApp_autogen/mocs_compilation.cpp	463d9dccb4d8f5fa
+960	3457	7647210435585848	CMakeFiles/BudgetTrackerGUIApp.dir/mainwindow.cpp.obj	dd49640fe15d597a
+14	926	7647210434131451	D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/BudgetTrackerGUIApp_autogen/timestamp	463d9dccb4d8f5fa
+14	926	7647210434131451	D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/BudgetTrackerGUIApp_autogen/mocs_compilation.cpp	463d9dccb4d8f5fa
+927	2940	7647210435367965	CMakeFiles/BudgetTrackerGUIApp.dir/BudgetTrackerGUIApp_autogen/mocs_compilation.cpp.obj	700e8665bf6fe8b0
+943	2987	7647210435429282	CMakeFiles/BudgetTrackerGUIApp.dir/main.cpp.obj	2d3372ed0a81410
+3457	3956	7647210460583100	BudgetTrackerGUIApp.exe	97c08acbfe915653
+12	915	7649635636944312	BudgetTrackerGUIApp_autogen/timestamp	463d9dccb4d8f5fa
+12	915	7649635636944312	BudgetTrackerGUIApp_autogen/mocs_compilation.cpp	463d9dccb4d8f5fa
+12	915	7649635636944312	D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/BudgetTrackerGUIApp_autogen/timestamp	463d9dccb4d8f5fa
+12	915	7649635636944312	D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/BudgetTrackerGUIApp_autogen/mocs_compilation.cpp	463d9dccb4d8f5fa
+971	1782	7649635638497101	CMakeFiles/BudgetTrackerGUIApp.dir/Tracker.cpp.obj	394d6deed5fd719
+916	2970	7649635638028345	CMakeFiles/BudgetTrackerGUIApp.dir/BudgetTrackerGUIApp_autogen/mocs_compilation.cpp.obj	700e8665bf6fe8b0
+936	2986	7649635638184615	CMakeFiles/BudgetTrackerGUIApp.dir/main.cpp.obj	2d3372ed0a81410
+953	3435	7649635638340862	CMakeFiles/BudgetTrackerGUIApp.dir/mainwindow.cpp.obj	dd49640fe15d597a
+3435	4848	7649635663224398	BudgetTrackerGUIApp.exe	4dc87c3d42b04a54

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-017f12568ae31530ca96.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BudgetTrackerGUIApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BudgetTrackerGUIApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BudgetTrackerGUIApp-Debug-015018a34d4e5db6a314.json",
+					"name" : "BudgetTrackerGUIApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BudgetTrackerGUIApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BudgetTrackerGUIApp_autogen-Debug-38e3c78e6d195e4b97bd.json",
+					"name" : "BudgetTrackerGUIApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BudgetTrackerGUIApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BudgetTrackerGUIApp_autogen_timestamp_deps-Debug-fa384e021c9f2fb7f28f.json",
+					"name" : "BudgetTrackerGUIApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/PERSONAL-BudgetTrackerAppGUI/BudgetTrackerGUIApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
